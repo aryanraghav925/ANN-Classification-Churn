@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+tensorflow==2.20.0
+pandas
+numpy
+scikit-learn
+tensorboard
+streamlit
+matplotlib
+scikeras
+keras
+=======
+tensorflow==2.20.0
+pandas
+numpy
+scikit-learn
+tensorboard
+streamlit
+matplotlib
+>>>>>>> 3566c0160e36da3fa4269875d26c0997e5d06213
